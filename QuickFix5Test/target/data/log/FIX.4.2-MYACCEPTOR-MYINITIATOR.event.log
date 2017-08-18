@@ -1,0 +1,520 @@
+20170727-09:17:27: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20170727-09:17:27: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170727-09:17:41: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:56448
+20170727-09:17:41: Acceptor heartbeat set to 30 seconds
+20170727-09:17:41: Received logon
+20170727-09:17:41: Responding to Logon request
+20170728-03:12:01: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20170728-03:12:01: Session state is not current; resetting FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170728-03:12:01: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170728-03:12:28: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:54585
+20170728-03:12:28: Acceptor heartbeat set to 30 seconds
+20170728-03:12:28: Received logon
+20170728-03:12:28: Responding to Logon request
+20170801-06:57:40: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-06:57:40: Session state is not current; resetting FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-06:57:40: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-06:58:36: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:63936
+20170801-06:58:36: Acceptor heartbeat set to 30 seconds
+20170801-06:58:36: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-06:58:36: Received logon
+20170801-06:58:36: Responding to Logon request
+20170801-06:59:07: Received logout request
+20170801-06:59:07: Sent logout response
+20170801-06:59:08: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:63961
+20170801-06:59:08: Acceptor heartbeat set to 30 seconds
+20170801-06:59:08: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-06:59:08: Received logon
+20170801-06:59:08: Responding to Logon request
+20170801-06:59:38: Received logout request
+20170801-06:59:38: Sent logout response
+20170801-06:59:39: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:63978
+20170801-06:59:39: Acceptor heartbeat set to 30 seconds
+20170801-06:59:39: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-06:59:39: Received logon
+20170801-06:59:39: Responding to Logon request
+20170801-07:00:09: Received logout request
+20170801-07:00:09: Sent logout response
+20170801-07:00:10: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64009
+20170801-07:00:10: Acceptor heartbeat set to 30 seconds
+20170801-07:00:10: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:00:10: Received logon
+20170801-07:00:10: Responding to Logon request
+20170801-07:00:39: Disconnecting: Socket exception (/127.0.0.1:64009): java.io.IOException: ?????????????????
+20170801-07:00:49: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:00:49: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:00:57: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64073
+20170801-07:00:57: Acceptor heartbeat set to 30 seconds
+20170801-07:00:57: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:00:57: Received logon
+20170801-07:00:57: Responding to Logon request
+20170801-07:01:48: Received logout request
+20170801-07:01:48: Sent logout response
+20170801-07:02:06: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64122
+20170801-07:02:06: Acceptor heartbeat set to 30 seconds
+20170801-07:02:06: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:02:06: Received logon
+20170801-07:02:06: Responding to Logon request
+20170801-07:02:45: Multiple logons/connections for this session are not allowed
+20170801-07:02:45: Received logout request
+20170801-07:02:45: Sent logout response
+20170801-07:04:28: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:04:28: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:04:34: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64264
+20170801-07:04:34: Acceptor heartbeat set to 30 seconds
+20170801-07:04:34: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:04:34: Received logon
+20170801-07:04:34: Responding to Logon request
+20170801-07:05:05: Received logout request
+20170801-07:05:05: Sent logout response
+20170801-07:05:06: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64278
+20170801-07:05:06: Acceptor heartbeat set to 30 seconds
+20170801-07:05:06: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:05:06: Received logon
+20170801-07:05:06: Responding to Logon request
+20170801-07:05:36: Received logout request
+20170801-07:05:36: Sent logout response
+20170801-07:05:37: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64297
+20170801-07:05:37: Acceptor heartbeat set to 30 seconds
+20170801-07:05:37: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:05:37: Received logon
+20170801-07:05:37: Responding to Logon request
+20170801-07:06:07: Received logout request
+20170801-07:06:07: Sent logout response
+20170801-07:06:08: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64320
+20170801-07:06:08: Acceptor heartbeat set to 30 seconds
+20170801-07:06:08: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:06:08: Received logon
+20170801-07:06:08: Responding to Logon request
+20170801-07:06:38: Received logout request
+20170801-07:06:38: Sent logout response
+20170801-07:06:39: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64338
+20170801-07:06:39: Acceptor heartbeat set to 30 seconds
+20170801-07:06:39: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:06:39: Received logon
+20170801-07:06:39: Responding to Logon request
+20170801-07:06:48: Disconnecting: Socket exception (/127.0.0.1:64338): java.io.IOException: ?????????????????
+20170801-07:10:38: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:10:38: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:10:45: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64493
+20170801-07:10:45: Acceptor heartbeat set to 10 seconds
+20170801-07:10:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:10:45: Received logon
+20170801-07:10:45: Responding to Logon request
+20170801-07:10:55: Received logout request
+20170801-07:10:55: Sent logout response
+20170801-07:11:15: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64509
+20170801-07:11:15: Acceptor heartbeat set to 10 seconds
+20170801-07:11:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:11:15: Received logon
+20170801-07:11:15: Responding to Logon request
+20170801-07:11:25: Received logout request
+20170801-07:11:25: Sent logout response
+20170801-07:11:45: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64532
+20170801-07:11:45: Acceptor heartbeat set to 10 seconds
+20170801-07:11:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:11:45: Received logon
+20170801-07:11:45: Responding to Logon request
+20170801-07:11:55: Received logout request
+20170801-07:11:55: Sent logout response
+20170801-07:12:15: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64566
+20170801-07:12:15: Acceptor heartbeat set to 10 seconds
+20170801-07:12:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:12:15: Received logon
+20170801-07:12:15: Responding to Logon request
+20170801-07:12:25: Received logout request
+20170801-07:12:25: Sent logout response
+20170801-07:12:25: Already disconnected: Socket exception (/127.0.0.1:64566): java.io.IOException: ????????????????????
+20170801-07:12:45: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64595
+20170801-07:12:45: Acceptor heartbeat set to 10 seconds
+20170801-07:12:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:12:45: Received logon
+20170801-07:12:45: Responding to Logon request
+20170801-07:12:55: Received logout request
+20170801-07:12:55: Sent logout response
+20170801-07:13:15: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64610
+20170801-07:13:15: Acceptor heartbeat set to 10 seconds
+20170801-07:13:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:13:15: Received logon
+20170801-07:13:15: Responding to Logon request
+20170801-07:13:25: Received logout request
+20170801-07:13:25: Sent logout response
+20170801-07:13:45: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64635
+20170801-07:13:45: Acceptor heartbeat set to 10 seconds
+20170801-07:13:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:13:45: Received logon
+20170801-07:13:45: Responding to Logon request
+20170801-07:13:55: Received logout request
+20170801-07:13:55: Sent logout response
+20170801-07:14:15: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64655
+20170801-07:14:15: Acceptor heartbeat set to 10 seconds
+20170801-07:14:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:14:15: Received logon
+20170801-07:14:15: Responding to Logon request
+20170801-07:14:25: Received logout request
+20170801-07:14:25: Sent logout response
+20170801-07:14:45: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64674
+20170801-07:14:45: Acceptor heartbeat set to 10 seconds
+20170801-07:14:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:14:45: Received logon
+20170801-07:14:45: Responding to Logon request
+20170801-07:14:55: Received logout request
+20170801-07:14:55: Sent logout response
+20170801-07:15:15: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64692
+20170801-07:15:15: Acceptor heartbeat set to 10 seconds
+20170801-07:15:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:15:15: Received logon
+20170801-07:15:15: Responding to Logon request
+20170801-07:15:25: Received logout request
+20170801-07:15:25: Sent logout response
+20170801-07:15:46: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64710
+20170801-07:15:46: Acceptor heartbeat set to 10 seconds
+20170801-07:15:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:15:46: Received logon
+20170801-07:15:46: Responding to Logon request
+20170801-07:15:56: Received logout request
+20170801-07:15:56: Sent logout response
+20170801-07:16:16: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64735
+20170801-07:16:16: Acceptor heartbeat set to 10 seconds
+20170801-07:16:16: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:16:16: Received logon
+20170801-07:16:16: Responding to Logon request
+20170801-07:16:26: Received logout request
+20170801-07:16:26: Sent logout response
+20170801-07:16:46: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64751
+20170801-07:16:46: Acceptor heartbeat set to 10 seconds
+20170801-07:16:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:16:46: Received logon
+20170801-07:16:46: Responding to Logon request
+20170801-07:16:56: Received logout request
+20170801-07:16:56: Sent logout response
+20170801-07:17:16: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64777
+20170801-07:17:16: Acceptor heartbeat set to 10 seconds
+20170801-07:17:16: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:17:16: Received logon
+20170801-07:17:16: Responding to Logon request
+20170801-07:17:26: Received logout request
+20170801-07:17:26: Sent logout response
+20170801-07:17:46: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64796
+20170801-07:17:46: Acceptor heartbeat set to 10 seconds
+20170801-07:17:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:17:46: Received logon
+20170801-07:17:46: Responding to Logon request
+20170801-07:17:56: Received logout request
+20170801-07:17:56: Sent logout response
+20170801-07:18:16: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64820
+20170801-07:18:16: Acceptor heartbeat set to 10 seconds
+20170801-07:18:16: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:18:16: Received logon
+20170801-07:18:16: Responding to Logon request
+20170801-07:18:26: Received logout request
+20170801-07:18:26: Sent logout response
+20170801-07:18:46: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64837
+20170801-07:18:46: Acceptor heartbeat set to 10 seconds
+20170801-07:18:46: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:18:46: Received logon
+20170801-07:18:46: Responding to Logon request
+20170801-07:18:56: Received logout request
+20170801-07:18:56: Sent logout response
+20170801-07:19:14: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:19:14: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:20:15: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64926
+20170801-07:20:15: Acceptor heartbeat set to 10 seconds
+20170801-07:20:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:20:15: Received logon
+20170801-07:20:15: Responding to Logon request
+20170801-07:20:25: Received logout request
+20170801-07:20:25: Sent logout response
+20170801-07:20:45: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64950
+20170801-07:20:45: Acceptor heartbeat set to 10 seconds
+20170801-07:20:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:20:45: Received logon
+20170801-07:20:45: Responding to Logon request
+20170801-07:20:55: Received logout request
+20170801-07:20:55: Sent logout response
+20170801-07:21:15: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64965
+20170801-07:21:15: Acceptor heartbeat set to 10 seconds
+20170801-07:21:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:21:15: Received logon
+20170801-07:21:15: Responding to Logon request
+20170801-07:21:25: Received logout request
+20170801-07:21:25: Sent logout response
+20170801-07:21:45: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:64990
+20170801-07:21:45: Acceptor heartbeat set to 10 seconds
+20170801-07:21:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:21:45: Received logon
+20170801-07:21:45: Responding to Logon request
+20170801-07:21:47: Disconnecting: Socket exception (/127.0.0.1:64990): java.io.IOException: ?????????????????
+20170801-07:21:54: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:21:54: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:22:00: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65045
+20170801-07:22:00: Acceptor heartbeat set to 10 seconds
+20170801-07:22:00: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:22:00: Received logon
+20170801-07:22:00: Responding to Logon request
+20170801-07:22:10: Received logout request
+20170801-07:22:10: Sent logout response
+20170801-07:22:29: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65068
+20170801-07:22:29: Acceptor heartbeat set to 10 seconds
+20170801-07:22:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:22:30: Received logon
+20170801-07:22:30: Responding to Logon request
+20170801-07:22:39: Received logout request
+20170801-07:22:39: Sent logout response
+20170801-07:22:59: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65093
+20170801-07:22:59: Acceptor heartbeat set to 10 seconds
+20170801-07:22:59: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:23:00: Received logon
+20170801-07:23:00: Responding to Logon request
+20170801-07:23:09: Received logout request
+20170801-07:23:09: Sent logout response
+20170801-07:23:29: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65113
+20170801-07:23:29: Acceptor heartbeat set to 10 seconds
+20170801-07:23:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:23:30: Received logon
+20170801-07:23:30: Responding to Logon request
+20170801-07:23:39: Received logout request
+20170801-07:23:39: Sent logout response
+20170801-07:23:59: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65135
+20170801-07:23:59: Acceptor heartbeat set to 10 seconds
+20170801-07:23:59: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:24:00: Received logon
+20170801-07:24:00: Responding to Logon request
+20170801-07:24:10: Received logout request
+20170801-07:24:10: Sent logout response
+20170801-07:24:29: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65156
+20170801-07:24:29: Acceptor heartbeat set to 10 seconds
+20170801-07:24:29: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:24:30: Received logon
+20170801-07:24:30: Responding to Logon request
+20170801-07:24:40: Received logout request
+20170801-07:24:40: Sent logout response
+20170801-07:25:00: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65176
+20170801-07:25:00: Acceptor heartbeat set to 10 seconds
+20170801-07:25:00: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:25:01: Received logon
+20170801-07:25:01: Responding to Logon request
+20170801-07:25:11: Received logout request
+20170801-07:25:11: Sent logout response
+20170801-07:25:30: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65196
+20170801-07:25:30: Acceptor heartbeat set to 10 seconds
+20170801-07:25:30: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:25:31: Received logon
+20170801-07:25:31: Responding to Logon request
+20170801-07:25:40: Received logout request
+20170801-07:25:40: Sent logout response
+20170801-07:26:12: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:26:12: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:26:18: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65279
+20170801-07:26:18: Acceptor heartbeat set to 10 seconds
+20170801-07:26:18: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:26:18: Received logon
+20170801-07:26:18: Responding to Logon request
+20170801-07:27:37: Disconnecting: Timed out waiting for heartbeat
+20170801-07:27:37: No responder, not sending message: 8=FIX.4.29=12335=D34=349=MYACCEPTOR52=20170801-07:27:37.84956=MYINITIATOR11=123438=33040=254=155=0000160=20170801-07:26:28.53410=065
+20170801-07:27:37: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65295
+20170801-07:27:37: Acceptor heartbeat set to 10 seconds
+20170801-07:27:37: Multiple logons/connections for this session are not allowed
+20170801-07:27:58: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:27:58: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65345
+20170801-07:27:58: Acceptor heartbeat set to 10 seconds
+20170801-07:27:58: Received logon
+20170801-07:27:58: Responding to Logon request
+20170801-07:27:58: Received logon
+20170801-07:27:58: Responding to Logon request
+20170801-07:27:58: No responder, not sending message: 8=FIX.4.29=7635=A34=249=MYACCEPTOR52=20170801-07:27:58.64156=MYINITIATOR98=0108=1010=091
+20170801-07:27:58: MsgSeqNum too high, expecting 2 but received 3: 8=FIX.4.29=7635=A34=349=MYINITIATOR52=20170801-07:27:54.32956=MYACCEPTOR98=0108=1010=091
+20170801-07:27:58: Enqueued at pos 3: 8=FIX.4.29=7635=A34=349=MYINITIATOR52=20170801-07:27:54.32956=MYACCEPTOR98=0108=1010=091
+20170801-07:27:58: No responder, not sending message: 8=FIX.4.29=7335=234=349=MYACCEPTOR52=20170801-07:27:58.64156=MYINITIATOR7=216=010=175
+20170801-07:27:58: Sent ResendRequest FROM: 2 TO: 2
+20170801-07:28:24: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65365
+20170801-07:28:24: Acceptor heartbeat set to 10 seconds
+20170801-07:28:24: Received logon
+20170801-07:28:24: Responding to Logon request
+20170801-07:28:24: MsgSeqNum too high, expecting 2 but received 4: 8=FIX.4.29=7635=A34=449=MYINITIATOR52=20170801-07:28:24.33356=MYACCEPTOR98=0108=1010=085
+20170801-07:28:24: Enqueued at pos 4: 8=FIX.4.29=7635=A34=449=MYINITIATOR52=20170801-07:28:24.33356=MYACCEPTOR98=0108=1010=085
+20170801-07:28:24: Sent ResendRequest FROM: 2 TO: 3
+20170801-07:28:40: Sent test request TEST
+20170801-07:28:42: Received SequenceReset FROM: 2 TO: 5
+20170801-07:28:42: ResendRequest for messages FROM 2 TO 3 has been satisfied.
+20170801-07:28:44: Received ResendRequest FROM: 3 TO: infinity
+20170801-07:28:44: Sent SequenceReset TO: 7
+20170801-07:28:44: Resending Message: 7
+20170801-07:28:44: Sent SequenceReset TO: 9
+20170801-07:28:44: Resending Message: 9
+20170801-07:28:44: Resending Message: 10
+20170801-07:28:45: Received logout request
+20170801-07:28:45: Sent logout response
+20170801-07:28:54: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65386
+20170801-07:28:54: Acceptor heartbeat set to 10 seconds
+20170801-07:28:54: Received logon
+20170801-07:28:54: Responding to Logon request
+20170801-07:29:52: Multiple logons/connections for this session are not allowed
+20170801-07:29:52: Received logout request
+20170801-07:29:52: Sent logout response
+20170801-07:29:55: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65429
+20170801-07:29:55: Acceptor heartbeat set to 10 seconds
+20170801-07:29:55: Received logon
+20170801-07:29:55: Responding to Logon request
+20170801-07:29:55: MsgSeqNum too high, expecting 11 but received 12: 8=FIX.4.29=7735=A34=1249=MYINITIATOR52=20170801-07:29:55.33956=MYACCEPTOR98=0108=1010=144
+20170801-07:29:55: Enqueued at pos 12: 8=FIX.4.29=7735=A34=1249=MYINITIATOR52=20170801-07:29:55.33956=MYACCEPTOR98=0108=1010=144
+20170801-07:29:55: Sent ResendRequest FROM: 11 TO: 11
+20170801-07:29:55: ResendRequest for messages FROM 11 TO 11 has been satisfied.
+20170801-07:29:56: Received SequenceReset FROM: 11 TO: 13
+20170801-07:30:16: Received logout request
+20170801-07:30:16: Sent logout response
+20170801-07:30:25: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65446
+20170801-07:30:25: Acceptor heartbeat set to 10 seconds
+20170801-07:30:25: Received logon
+20170801-07:30:25: Responding to Logon request
+20170801-07:31:33: Disconnecting: Timed out waiting for heartbeat
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=12435=D34=2449=MYACCEPTOR52=20170801-07:31:33.28856=MYINITIATOR11=123438=33040=254=155=0000160=20170801-07:30:35.51710=099
+20170801-07:31:33: Received ResendRequest FROM: 6 TO: infinity
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=10635=434=643=Y49=MYACCEPTOR52=20170801-07:31:33.29356=MYINITIATOR122=20170801-07:31:33.29336=7123=Y10=105
+20170801-07:31:33: Sent SequenceReset TO: 7
+20170801-07:31:33: Resending Message: 7
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15435=D34=743=Y49=MYACCEPTOR52=20170801-07:31:33.29356=MYINITIATOR122=20170801-07:28:37.92411=123438=33040=254=155=0000160=20170801-07:28:24.34810=071
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=10635=434=843=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:31:33.29436=9123=Y10=111
+20170801-07:31:33: Sent SequenceReset TO: 9
+20170801-07:31:33: Resending Message: 9
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15435=D34=943=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:28:43.55711=123438=33040=254=155=0000160=20170801-07:28:42.04810=070
+20170801-07:31:33: Resending Message: 10
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15535=D34=1043=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:28:44.50911=123438=33040=254=155=0000160=20170801-07:28:43.55710=115
+20170801-07:31:33: Resending Message: 11
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15535=D34=1143=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:28:45.48411=123438=33040=254=155=0000160=20170801-07:28:44.50910=117
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=10835=434=1243=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:31:33.29436=14123=Y10=200
+20170801-07:31:33: Sent SequenceReset TO: 14
+20170801-07:31:33: Resending Message: 14
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15535=D34=1443=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:29:06.57411=123438=33040=254=155=0000160=20170801-07:29:04.32810=114
+20170801-07:31:33: Resending Message: 15
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15535=D34=1543=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:29:52.57111=123438=33040=254=155=0000160=20170801-07:29:06.58110=116
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=10835=434=1643=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:31:33.29436=19123=Y10=209
+20170801-07:31:33: Sent SequenceReset TO: 19
+20170801-07:31:33: Resending Message: 19
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15535=D34=1943=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:29:56.98411=123438=33040=254=155=0000160=20170801-07:29:55.33910=137
+20170801-07:31:33: Resending Message: 20
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15535=D34=2043=Y49=MYACCEPTOR52=20170801-07:31:33.29456=MYINITIATOR122=20170801-07:30:16.55511=123438=33040=254=155=0000160=20170801-07:29:56.99210=117
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=10835=434=2143=Y49=MYACCEPTOR52=20170801-07:31:33.29656=MYINITIATOR122=20170801-07:31:33.29636=24123=Y10=205
+20170801-07:31:33: Sent SequenceReset TO: 24
+20170801-07:31:33: Resending Message: 24
+20170801-07:31:33: No responder, not sending message: 8=FIX.4.29=15535=D34=2443=Y49=MYACCEPTOR52=20170801-07:31:33.29656=MYINITIATOR122=20170801-07:31:33.28811=123438=33040=254=155=0000160=20170801-07:30:35.51710=108
+20170801-07:31:33: quickfix.SessionException Logon state is not valid for message (MsgType=0)
+20170801-07:31:33: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=0)
+20170801-07:31:33: quickfix.SessionException Logon state is not valid for message (MsgType=1)
+20170801-07:31:33: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=1)
+20170801-07:31:33: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65471
+20170801-07:31:33: Acceptor heartbeat set to 10 seconds
+20170801-07:31:33: Received logon
+20170801-07:31:33: Responding to Logon request
+20170801-07:31:33: MsgSeqNum too high, expecting 16 but received 18: 8=FIX.4.29=7735=A34=1849=MYINITIATOR52=20170801-07:31:01.32056=MYACCEPTOR98=0108=1010=124
+20170801-07:31:33: Enqueued at pos 18: 8=FIX.4.29=7735=A34=1849=MYINITIATOR52=20170801-07:31:01.32056=MYACCEPTOR98=0108=1010=124
+20170801-07:31:33: Sent ResendRequest FROM: 16 TO: 17
+20170801-07:31:33: Multiple logons/connections for this session are not allowed
+20170801-07:32:01: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:65512
+20170801-07:32:01: Acceptor heartbeat set to 10 seconds
+20170801-07:32:01: Received logon
+20170801-07:32:01: Responding to Logon request
+20170801-07:32:01: MsgSeqNum too high, expecting 16 but received 20: 8=FIX.4.29=7735=A34=2049=MYINITIATOR52=20170801-07:32:01.32156=MYACCEPTOR98=0108=1010=119
+20170801-07:32:01: Enqueued at pos 20: 8=FIX.4.29=7735=A34=2049=MYINITIATOR52=20170801-07:32:01.32156=MYACCEPTOR98=0108=1010=119
+20170801-07:32:01: Sent ResendRequest FROM: 16 TO: 19
+20170801-07:32:03: Received SequenceReset FROM: 16 TO: 21
+20170801-07:33:17: Multiple logons/connections for this session are not allowed
+20170801-07:33:17: Received logout request
+20170801-07:33:17: Sent logout response
+20170801-07:33:17: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:49180
+20170801-07:33:17: Acceptor heartbeat set to 10 seconds
+20170801-07:33:17: Received logon
+20170801-07:33:17: Responding to Logon request
+20170801-07:33:17: MsgSeqNum too high, expecting 22 but received 23: 8=FIX.4.29=7735=A34=2349=MYINITIATOR52=20170801-07:33:02.32356=MYACCEPTOR98=0108=1010=126
+20170801-07:33:17: Enqueued at pos 23: 8=FIX.4.29=7735=A34=2349=MYINITIATOR52=20170801-07:33:02.32356=MYACCEPTOR98=0108=1010=126
+20170801-07:33:17: Sent ResendRequest FROM: 22 TO: 22
+20170801-07:33:32: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:49202
+20170801-07:33:32: Acceptor heartbeat set to 10 seconds
+20170801-07:33:32: Received logon
+20170801-07:33:32: Responding to Logon request
+20170801-07:33:32: MsgSeqNum too high, expecting 22 but received 24: 8=FIX.4.29=7735=A34=2449=MYINITIATOR52=20170801-07:33:32.32656=MYACCEPTOR98=0108=1010=133
+20170801-07:33:32: Enqueued at pos 24: 8=FIX.4.29=7735=A34=2449=MYINITIATOR52=20170801-07:33:32.32656=MYACCEPTOR98=0108=1010=133
+20170801-07:33:32: Sent ResendRequest FROM: 22 TO: 23
+20170801-07:33:32: Received SequenceReset FROM: 22 TO: 25
+20170801-07:33:32: Received logout request
+20170801-07:33:32: Sent logout response
+20170801-07:41:57: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:41:57: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:42:15: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:49524
+20170801-07:42:15: Acceptor heartbeat set to 10 seconds
+20170801-07:42:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:42:15: Received logon
+20170801-07:42:15: Responding to Logon request
+20170801-07:42:30: Disconnecting: Socket exception (/127.0.0.1:49524): java.io.IOException: ?????????????????
+20170801-07:45:57: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:45:57: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:46:02: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:49684
+20170801-07:46:02: Acceptor heartbeat set to 10 seconds
+20170801-07:46:02: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:46:02: Received logon
+20170801-07:46:02: Responding to Logon request
+20170801-07:46:18: Disconnecting: Socket exception (/127.0.0.1:49684): java.io.IOException: ?????????????????
+20170801-07:50:33: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:50:33: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:50:38: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:49859
+20170801-07:50:38: Acceptor heartbeat set to 10 seconds
+20170801-07:50:38: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:50:38: Received logon
+20170801-07:50:38: Responding to Logon request
+20170801-07:50:56: Disconnecting: Socket exception (/127.0.0.1:49859): java.io.IOException: ?????????????????
+20170801-07:52:15: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:52:15: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:52:23: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:49950
+20170801-07:52:23: Acceptor heartbeat set to 10 seconds
+20170801-07:52:23: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:52:23: Received logon
+20170801-07:52:23: Responding to Logon request
+20170801-07:52:34: Received logout request
+20170801-07:52:34: Sent logout response
+20170801-07:54:01: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:54:01: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:54:06: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:50054
+20170801-07:54:06: Acceptor heartbeat set to 10 seconds
+20170801-07:54:06: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:54:06: Received logon
+20170801-07:54:06: Responding to Logon request
+20170801-07:54:50: Disconnecting: Socket exception (/127.0.0.1:50054): java.io.IOException: ?????????????????
+20170801-07:56:05: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:56:05: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:56:14: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:50154
+20170801-07:56:14: Acceptor heartbeat set to 10 seconds
+20170801-07:56:14: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:56:14: Received logon
+20170801-07:56:14: Responding to Logon request
+20170801-07:57:44: Disconnecting: Socket exception (/127.0.0.1:50154): java.io.IOException: ?????????????????
+20170801-07:58:20: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-07:58:20: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-07:58:26: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:50311
+20170801-07:58:26: Acceptor heartbeat set to 10 seconds
+20170801-07:58:26: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:58:26: Received logon
+20170801-07:58:26: Responding to Logon request
+20170801-07:58:36: Received logout request
+20170801-07:58:36: Sent logout response
+20170801-07:58:56: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:50328
+20170801-07:58:56: Acceptor heartbeat set to 10 seconds
+20170801-07:58:56: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:58:56: Received logon
+20170801-07:58:56: Responding to Logon request
+20170801-07:59:05: Received logout request
+20170801-07:59:05: Sent logout response
+20170801-07:59:17: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:50375
+20170801-07:59:17: Acceptor heartbeat set to 10 seconds
+20170801-07:59:17: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-07:59:17: Received logon
+20170801-07:59:17: Responding to Logon request
+20170801-07:59:28: Received logout request
+20170801-07:59:28: Sent logout response
+20170801-08:00:15: Session FIX.4.2:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170801-08:00:15: Created session: FIX.4.2:MYACCEPTOR->MYINITIATOR
+20170801-08:00:22: Accepting session FIX.4.2:MYACCEPTOR->MYINITIATOR from /127.0.0.1:50458
+20170801-08:00:22: Acceptor heartbeat set to 10 seconds
+20170801-08:00:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20170801-08:00:22: Received logon
+20170801-08:00:22: Responding to Logon request
+20170801-08:01:39: Disconnecting: Socket exception (/127.0.0.1:50458): java.io.IOException: ?????????????????

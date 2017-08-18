@@ -1,0 +1,13 @@
+20170727-09:17:28: Session FIX.4.3:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20170727-09:17:28: Created session: FIX.4.3:MYACCEPTOR->MYINITIATOR
+20170727-09:17:41: Accepting session FIX.4.3:MYACCEPTOR->MYINITIATOR from /127.0.0.1:56449
+20170727-09:17:41: Acceptor heartbeat set to 30 seconds
+20170727-09:17:41: Received logon
+20170727-09:17:41: Responding to Logon request
+20170728-03:12:01: Session FIX.4.3:MYACCEPTOR->MYINITIATOR schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20170728-03:12:01: Session state is not current; resetting FIX.4.3:MYACCEPTOR->MYINITIATOR
+20170728-03:12:01: Created session: FIX.4.3:MYACCEPTOR->MYINITIATOR
+20170728-03:12:28: Accepting session FIX.4.3:MYACCEPTOR->MYINITIATOR from /127.0.0.1:54584
+20170728-03:12:28: Acceptor heartbeat set to 30 seconds
+20170728-03:12:28: Received logon
+20170728-03:12:28: Responding to Logon request

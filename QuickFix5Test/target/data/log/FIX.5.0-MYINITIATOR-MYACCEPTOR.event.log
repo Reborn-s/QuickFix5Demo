@@ -1,0 +1,128 @@
+20170810-09:57:01: Session FIX.5.0:MYINITIATOR->MYACCEPTOR schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20170810-09:57:01: Created session: FIX.5.0:MYINITIATOR->MYACCEPTOR
+20170810-09:57:02: Error accessing message fields
+quickfix.FieldNotFound: Field [35] was not found in message.
+	at quickfix.FieldMap.getField(FieldMap.java:208)
+	at quickfix.FieldMap.getString(FieldMap.java:222)
+	at quickfix.Session.sendRaw(Session.java:2435)
+	at quickfix.Session.generateLogon(Session.java:1920)
+	at quickfix.Session.next(Session.java:1820)
+	at quickfix.mina.SessionConnector$SessionTimerTask.run(SessionConnector.java:277)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+20170810-09:57:02: Error during logon request initiation
+20170810-09:57:13: Disconnecting: Timed out waiting for logon response
+20170810-09:57:32: Error accessing message fields
+quickfix.FieldNotFound: Field [35] was not found in message.
+	at quickfix.FieldMap.getField(FieldMap.java:208)
+	at quickfix.FieldMap.getString(FieldMap.java:222)
+	at quickfix.Session.sendRaw(Session.java:2435)
+	at quickfix.Session.generateLogon(Session.java:1920)
+	at quickfix.Session.next(Session.java:1820)
+	at quickfix.mina.SessionConnector$SessionTimerTask.run(SessionConnector.java:277)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+20170810-09:57:32: Error during logon request initiation
+20170810-09:57:43: Disconnecting: Timed out waiting for logon response
+20170810-09:58:02: Error accessing message fields
+quickfix.FieldNotFound: Field [35] was not found in message.
+	at quickfix.FieldMap.getField(FieldMap.java:208)
+	at quickfix.FieldMap.getString(FieldMap.java:222)
+	at quickfix.Session.sendRaw(Session.java:2435)
+	at quickfix.Session.generateLogon(Session.java:1920)
+	at quickfix.Session.next(Session.java:1820)
+	at quickfix.mina.SessionConnector$SessionTimerTask.run(SessionConnector.java:277)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+20170810-09:58:02: Error during logon request initiation
+20170810-09:58:13: Disconnecting: Timed out waiting for logon response
+20170810-09:58:32: Error accessing message fields
+quickfix.FieldNotFound: Field [35] was not found in message.
+	at quickfix.FieldMap.getField(FieldMap.java:208)
+	at quickfix.FieldMap.getString(FieldMap.java:222)
+	at quickfix.Session.sendRaw(Session.java:2435)
+	at quickfix.Session.generateLogon(Session.java:1920)
+	at quickfix.Session.next(Session.java:1820)
+	at quickfix.mina.SessionConnector$SessionTimerTask.run(SessionConnector.java:277)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+20170810-09:58:32: Error during logon request initiation
+20170810-09:58:43: Disconnecting: Timed out waiting for logon response
+20170810-09:59:02: Error accessing message fields
+quickfix.FieldNotFound: Field [35] was not found in message.
+	at quickfix.FieldMap.getField(FieldMap.java:208)
+	at quickfix.FieldMap.getString(FieldMap.java:222)
+	at quickfix.Session.sendRaw(Session.java:2435)
+	at quickfix.Session.generateLogon(Session.java:1920)
+	at quickfix.Session.next(Session.java:1820)
+	at quickfix.mina.SessionConnector$SessionTimerTask.run(SessionConnector.java:277)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+20170810-09:59:02: Error during logon request initiation
+20170810-09:59:13: Disconnecting: Timed out waiting for logon response
+20170810-09:59:32: Error accessing message fields
+quickfix.FieldNotFound: Field [35] was not found in message.
+	at quickfix.FieldMap.getField(FieldMap.java:208)
+	at quickfix.FieldMap.getString(FieldMap.java:222)
+	at quickfix.Session.sendRaw(Session.java:2435)
+	at quickfix.Session.generateLogon(Session.java:1920)
+	at quickfix.Session.next(Session.java:1820)
+	at quickfix.mina.SessionConnector$SessionTimerTask.run(SessionConnector.java:277)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+20170810-09:59:32: Error during logon request initiation
+20170810-09:59:42: Disconnecting: Timed out waiting for logon response
+20170810-10:00:02: Error accessing message fields
+quickfix.FieldNotFound: Field [35] was not found in message.
+	at quickfix.FieldMap.getField(FieldMap.java:208)
+	at quickfix.FieldMap.getString(FieldMap.java:222)
+	at quickfix.Session.sendRaw(Session.java:2435)
+	at quickfix.Session.generateLogon(Session.java:1920)
+	at quickfix.Session.next(Session.java:1820)
+	at quickfix.mina.SessionConnector$SessionTimerTask.run(SessionConnector.java:277)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+20170810-10:00:02: Error during logon request initiation
+20170810-10:00:12: Disconnecting: Timed out waiting for logon response
